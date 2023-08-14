@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. with Hons (Highest Distinction), English Language & Literature, National University of Singapore, 2022
+* M.Phil in Sociology & Demography, University of Oxford, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023: Research Assistant
+  * Leverhulme Centre for Demographic Science, University of Oxford
+  * Supervisor: Dr Evalina Akimova
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mar 2023: Graduate Teaching Assistant
+  * Magdalen College, University of Oxford
+  * Demography
+
+* Feb 2023: Research Assistant
+  * Department of Sociology, University of Oxford
+  * Supervisor: Dr Charles Rahal
+
+* Oct 2022: Research Assistant
+  * Department of Sociology, National University of Singapore
+  * Supervisor: Dr Mu Zheng
+
+* Mar 2022: Research Assistant
+  * Department of English language & Literature, National University of Singapore
+  * Supervisor: Associate Professor Michelle Lazar
+
+* Apr 2021: Social Issues Researcher
+  * IPS Social Lab, Lee Kwan Yew School of Public Policy
+  * Supervisor: Dr Mathew Mathews
+
 
 Publications
 ======
@@ -42,18 +47,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
