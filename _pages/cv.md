@@ -3,6 +3,7 @@ layout: archive
 title: "Portfolio"
 permalink: /cv/
 author_profile: true
+noindex: true
 redirect_from:
   - /resume
 ---
