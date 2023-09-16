@@ -17,7 +17,7 @@ You can find my CV [here](https://drive.google.com/file/d/1QByFivZg7nM6aW7EWVJXN
 
 ## Ongoing projects
 
-I am also currently working with Dr. Evelina Akimova to conduct a meta-analysis of sibling correlations and  GxE studies pertaining to various social outcomes, with a particular emphasis on social class and occupations.
+I am currently working with Dr. Evelina Akimova to conduct a meta-analysis of sibling correlations and  GxE studies pertaining to various social outcomes, with a particular emphasis on social class and occupations.
 
 Simultaneously, I am collaborating with Dr. Charles Rahal and Dr. Evelina Akimova to examine ancestry diversity in genome wide association studies (GWAS) across funding institutions.
 
