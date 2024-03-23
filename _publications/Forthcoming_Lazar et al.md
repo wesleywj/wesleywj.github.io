@@ -1,7 +1,6 @@
 ---
 title: "Restoration of Public Self-Image: Ideological Circles in the Mediatization of Government-Migrant Worker Relations during Covid 19"
 collection: publications
-permalink: /publication/Lazar-et-al_23.pdf
 excerpt: ''
 date: 2023-10-11
 venue: 'Discourse and Communication' 
