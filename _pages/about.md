@@ -9,23 +9,21 @@ redirect_from:
 
 ## Welcome!
 
-I'm a PhD student pursuing a dual-title PhD in Sociology & Gerontology in Purdue University. I have earlier graduated from the University of Oxford 
-with an MPhil in Sociology & Demography. You can find my CV [here](https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing){:target="_blank"}.
+:   I'm a PhD student pursuing a dual-title PhD in Sociology & Gerontology in Purdue University. I have earlier graduated from the University of Oxford with an MPhil in Sociology & Demography. You can find my CV [here](https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing){:target="_blank"}.
 
 
 ## Primary Interests
 
-My research lies primarily in the intersection between gene and environment (GxE), and how it contributes to inequalities across the life course. 
-I am also interested in exploring differences in social outcomes induced by life course trajectories through computational methods (e.g., agent-based models; 
+:   My research lies primarily in the intersection between gene and environment (GxE), and how it contributes to inequalities across the life course. I am also interested in exploring differences in social outcomes induced by life course trajectories through computational methods (e.g., agent-based models; 
 ML-based models).
 
 ## Ongoing Projects
 
-I am currently working Dr Evelina Akimova to conduct a meta-analysis of sibling correlations and  GxE studies pertaining to various social outcomes, with a particular emphasis on social class and occupations.
+:   I am currently working Dr Evelina Akimova to conduct a meta-analysis of sibling correlations and  GxE studies pertaining to various social outcomes, with a particular emphasis on social class and occupations.
 
-Simultaneously, I am collaborating with Dr. Charles Rahal and Dr. Evelina Akimova to examine ancestry diversity in genome wide association studies (GWAS) across funding institutions.
+:   Simultaneously, I am collaborating with Dr. Charles Rahal and Dr. Evelina Akimova to examine ancestry diversity in genome wide association studies (GWAS) across funding institutions.
 
-Beyond sociogenomic research, I work with Prof. Nathalie Williams to utilise an agent-based model to examine how armed conflict in Chitwan Valley, Nepal, produces varying family formation behaviours and demographic outcomes. 
+:   Beyond sociogenomic research, I work with Prof. Nathalie Williams to utilise an agent-based model to examine how armed conflict in Chitwan Valley, Nepal, produces varying family formation behaviours and demographic outcomes. 
 
 
 Site-wide configuration
