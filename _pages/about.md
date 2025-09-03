@@ -27,9 +27,7 @@ ML-based models).
     polygenic scores to later life achievements. 
 
 &nbsp;
-:   Simultaneously, I am collaborating with some truly impressive scholars 
-    -- Nanum Jeon; Aitor Garcia; Yanji Du -- to simulate health outcomes under 
-    counterfactual life course scenarios using machine learning-based G-Computation.
+:   Simultaneously, I am collaborating with some truly impressive scholars -- including but not limited to Nanum Jeon (UCLA); Yanji Du (UCLA); and Aitor Garcia (Spanish Research Council) -- to simulate health outcomes under counterfactual life course scenarios using machine learning-based G-Computation.
 
 
 Site-wide configuration
