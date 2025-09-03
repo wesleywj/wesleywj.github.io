@@ -22,7 +22,7 @@ repository               : "wesleywj/wesleywj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Wesley Wang"
   #pronouns         : # example: "she/her"  
   bio              : "PhD Student in Sociology and Gerontology"
@@ -217,6 +217,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
