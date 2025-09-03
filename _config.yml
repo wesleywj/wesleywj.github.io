@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wesley Wang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Wesley Wang"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "wesleywj/wesleywj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  name             : "Wesley Wang"
+  #pronouns         : # example: "she/her"  
+  bio              : "PhD Student in Sociology and Gerontology"
   location         : "United States"
   employer         : "Purdue University"
   uri              : # URL
