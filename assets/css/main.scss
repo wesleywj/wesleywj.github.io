@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Override site-wide font */
+body, p {
+  font-family: "Open Sans", sans-serif !important;
+  font-size: 0.9em !important;   /* match dd */
+  line-height: 1.6 !important;
+  color: #222;
+}
