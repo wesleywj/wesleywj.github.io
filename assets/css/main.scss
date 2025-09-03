@@ -1,43 +1,53 @@
 ---
+
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+/* Import Open Sans font */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
+/* Theme + vendor imports */
 @import
-    "vendor/breakpoint/breakpoint",
+  "vendor/breakpoint/breakpoint",
+  "themes",
+  "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+  "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+  "include/mixins",
+  "vendor/susy/susy",
+  "layout/reset",
+  "layout/base",
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
+  "layout/forms",
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+  "layout/json_cv",
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands";
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+/* Apply Open Sans site-wide */
+body {
+  font-family: "Open Sans", sans-serif !important;
+  font-size: 13px;   /* slightly smaller than default */
+  line-height: 1.6;  /* keep readability */
+  color: #222;       /* ensure good contrast */
+}
 
-    "include/mixins",
-    "vendor/susy/susy",
+/* Ensure headings also use Open Sans with adjusted sizes */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: 700;
+}
 
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+h1 { font-size: 26px; }
+h2 { font-size: 22px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5, h6 { font-size: 14px; }
