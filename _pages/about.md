@@ -19,11 +19,10 @@ ML-based models).
 
 ## Ongoing Projects
 
-:   I am currently working Dr Evelina Akimova to conduct a meta-analysis of sibling correlations and  GxE studies pertaining to various social outcomes, with a particular emphasis on social class and occupations.
+:   I am currently collaborating with Dr. Evelina Akimova and Dr. Robyn Stryker to investigate social pathways linking educational attainment and ADHD polygenic scores to later life achievements. 
 
-:   Simultaneously, I am collaborating with Dr. Charles Rahal and Dr. Evelina Akimova to examine ancestry diversity in genome wide association studies (GWAS) across funding institutions.
 
-:   Beyond sociogenomic research, I work with Prof. Nathalie Williams to utilise an agent-based model to examine how armed conflict in Chitwan Valley, Nepal, produces varying family formation behaviours and demographic outcomes. 
+:   Simultaneously, I am collaborating with some truly impressive scholars --Nanum Jeon; Aitor Garcia; Yanji Du-- to simulate health outcomes under counterfactual life course scenarios using machine learning-based G-Computation. 
 
 
 Site-wide configuration
