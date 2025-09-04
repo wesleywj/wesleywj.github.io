@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Works-in-Progress"
-    url: /inprogress/
+  #- title: "Works-in-Progress"
+  #  url: /inprogress/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -23,8 +23,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Works-in-Progress"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
