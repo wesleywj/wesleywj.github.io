@@ -2,7 +2,7 @@
 title: "‘Hopefully this will be a wake-up call on how we treat migrant workers’: National wokeness in press reports during the Covid-19 pandemic"
 collection: publications
 category: manuscripts
-permalink: /publications/migrant_2025/   # local page on your site
+permalink: https://journals.sagepub.com/doi/abs/10.1177/09579265241313061   # local page on your site
 url: https://journals.sagepub.com/doi/abs/10.1177/09579265241313061  # external journal link
 excerpt: 'This study examines how Singapore’s flagship newspaper, The Straits Times (ST), framed relationships between migrant workers (MWs) and non-state actors (NGOs, companies and individuals) during the Covid-19 pandemic. We propose the conceptual lens of national wokeness as a mediatisation strategy of positive self-presentation to overcome international criticisms concerning the outbreak of the Covid-19 virus amidst neglected MW dormitories, and to repair the nation’s reputational damage. The study identifies five key discursive themes: Provision, Participation, Awareness, Inclusiveness and Humanisation; the analysis of which shows different shades of wokeness in narrativising Singaporeans’ emergent social consciousness and benevolent efforts to address unmet health and social needs arising from the marginalised status of MWs in Singapore. This study shows how the pandemic offered a rare moment for a nation to pause and potentially reset its apathetic, racist and classist attitudes towards its MWs, and raises for reflection Singaporeans’ longer-term commitment to social change concerning MWs’ welfare after the pandemic passes.'
 date: 2025-01-23
