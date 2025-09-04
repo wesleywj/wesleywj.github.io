@@ -26,9 +26,6 @@ I am currently collaborating with Dr. Evelina Akimova and Dr. Robyn Stryker
 Simultaneously, I am collaborating with some truly impressive scholars -- including but not limited to Nanum Jeon (UCLA); Yanji Du (UCLA); and Aitor Garcia (Spanish Research Council) -- to simulate health outcomes under counterfactual life course scenarios using machine learning-based G-Computation.
 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
