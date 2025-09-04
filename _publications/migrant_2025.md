@@ -1,5 +1,5 @@
 ---
-title: "[1] ‘Hopefully this will be a wake-up call on how we treat migrant workers’: National wokeness in press reports during the Covid-19 pandemic"
+title: "‘Hopefully this will be a wake-up call on how we treat migrant workers’: National wokeness in press reports during the Covid-19 pandemic"
 collection: publications
 category: manuscripts
 permalink: /publications/migrant_2025/   # local page on your site

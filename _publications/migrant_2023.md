@@ -1,5 +1,5 @@
 ---
-title: "[2] Restoration of positive self-image: Ideological circles in the mediatization of government-migrant worker relations during Covid 19"
+title: "Restoration of positive self-image: Ideological circles in the mediatization of government-migrant worker relations during Covid 19"
 collection: publications
 category: manuscripts
 permalink: /publications/migrant_2023/   # local page on your site
