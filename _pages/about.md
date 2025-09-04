@@ -24,6 +24,6 @@ I am currently collaborating with Dr. Evelina Akimova and Dr. Robyn Stryker to i
 Concurrently, I am working with some truly impressive scholars -- including but not limited to Nanum Jeon (UCLA); Yanji Du (UCLA); and Aitor Garcia (Spanish Research Council) -- to simulate health outcomes under counterfactual life course scenarios using machine learning-based G-Computation. This ongoing project is part of the [Population and Social Data Science Summer Incubator Program 2025](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/population_and_social_data_science_summer_incubator_program_2025_14343) hosted at the Max Planck Institute of Demographic Research.
 
 
-For more info
+rr
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
