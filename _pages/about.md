@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I'm a PhD student pursuing a dual-title PhD in Sociology & Gerontology in Purdue University. I have earlier graduated from the University of Oxford with an MPhil in Sociology & Demography. You can find my CV [here](https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing){:target="_blank"}.
+I'm a dual-title PhD student in Sociology & Gerontology at Purdue University. I have earlier graduated from the University of Oxford with an MPhil in Sociology & Demography. You can find my CV [here](https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing){:target="_blank"}.
 
 
 ## Primary Interests
