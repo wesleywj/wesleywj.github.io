@@ -25,7 +25,7 @@ redirect_from:
   </div>
   <div class="snapshot-card">
     <p class="snapshot-card__eyebrow">Methods</p>
-    <p>Computational social science, agent-based models, causal inference, machine learning, and longitudinal data analysis.</p>
+    <p>Longitudinal data analysis, machine learning, agent-based models, causal inference.</p>
   </div>
   <div class="snapshot-card">
     <p class="snapshot-card__eyebrow">Current Focus</p>
