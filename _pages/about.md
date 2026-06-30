@@ -7,18 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome!
+<section class="hero-panel">
+  <p class="hero-panel__eyebrow">Wesley Wang</p>
+  <h1 class="hero-panel__title">Research on health, population, and the life course.</h1>
+  <p class="hero-panel__lede">
+    I am a PhD student in Sociology at Princeton University studying health, population, and the life course through demographic and computational methods.
+  </p>
+  <div class="hero-panel__actions">
+    <a class="btn btn--inverse" href="https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing" target="_blank" rel="noopener">Download CV</a>
+  </div>
+</section>
 
-I'm a dual-title PhD student in Sociology & Gerontology at Purdue University. I have graduated earlier with an MPhil in Sociology & Demography from the University of Oxford. You can find my CV [here](https://drive.google.com/file/d/1s6r-6Mf9gbDxRVyukUaMD_ue6AmeBFWU/view?usp=sharing){:target="_blank"}.
+<section class="snapshot-grid">
+  <div class="snapshot-card">
+    <p class="snapshot-card__eyebrow">Research Areas</p>
+    <p>Population health, life-course processes, ageing, cumulative disadvantage, and health disparities.</p>
+  </div>
+  <div class="snapshot-card">
+    <p class="snapshot-card__eyebrow">Methods</p>
+    <p>Computational social science, agent-based models, causal inference, machine learning, and longitudinal data analysis.</p>
+  </div>
+  <div class="snapshot-card">
+    <p class="snapshot-card__eyebrow">Current Focus</p>
+    <p>How health and demographic outcomes unfold across the life course, especially under changing social and institutional conditions.</p>
+  </div>
+</section>
 
+## Profile
 
-## Primary Interests
+I work at the intersection of sociology, demography, and computational social science. My research focuses on how health disparities are generated, transmitted, and transformed across the life course, with particular attention to the ways social environments interact with biological and demographic processes.
 
-My research lies primarily in the intersection between gene and environment (GxE), and how it contributes to inequalities across the life course. I am also interested in exploring differences in social outcomes induced by life course trajectories through computational methods (e.g., agent-based models; ML-based models).
+My substantive interests include population health, ageing, cumulative disadvantage, and life-course health processes. Across these topics, I aim to connect classical sociological questions with newer computational and biosocial methods.
 
-## Ongoing Projects
+## Current Projects
 
-I am currently collaborating with Dr. Evelina Akimova and Dr. Robin Stryker to investigate social pathways linking educational attainment and ADHD polygenic scores to later life achievements. 
+- Social pathways linking educational attainment polygenic indices to educational and early career outcomes.
+- Counterfactual simulations of health trajectories under alternative life-course pathways using machine learning-based g-computation.
+- Demographic and population consequences of armed conflict using agent-based modeling.
 
-Concurrently, I am working with some truly excellent scholars --including but not limited to Nanum Jeon (UCLA); Yanji Du (UCLA); and Aitor Garcia (Spanish Research Council)-- to simulate health outcomes under counterfactual life course scenarios using machine learning-based G-Computation. This ongoing project is part of the [Population and Social Data Science Summer Incubator Program 2025](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/population_and_social_data_science_summer_incubator_program_2025_14343) hosted by the Max Planck Institute of Demographic Research.
+## Research Approach
 
+I am particularly interested in projects that combine strong theory with transparent empirical strategy. In practice, that means drawing on longitudinal surveys, demographic data, and computational models to study health and life-course mechanisms rather than only surface associations.
