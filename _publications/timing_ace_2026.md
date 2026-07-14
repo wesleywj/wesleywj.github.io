@@ -7,6 +7,7 @@ external_url: https://www.nature.com/articles/s41598-026-58459-1
 excerpt: 'Using longitudinal data from the Future of Families and Child Wellbeing Study, this article tests whether sensitive periods, cumulative risk, or recency best explain how adverse childhood experiences become biologically embedded through epigenetic ageing. The findings show that adversity during specific developmental periods is more strongly associated with epigenetic age acceleration than cumulative burden or recent exposure, with downstream links to later health risks and demographic behaviour.'
 date: 2026-06-19
 venue: 'Scientific Reports'
+doi: '10.1038/s41598-026-58459-1'
 citation: 'Wang, W. J., & Akimova, E. T. (2026). Timing of adverse childhood experiences shapes epigenetic ageing and life-history outcomes. Scientific Reports. https://doi.org/10.1038/s41598-026-58459-1.'
 ---
 

@@ -2,16 +2,11 @@
 layout: archive
 title: "Research"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 {% if site.author.googlescholar %}
-  <div class="research-intro">
-    <p>
-      This page combines published work and active working papers. A more complete citation record is also available on
-      <a href="https://scholar.google.com/citations?user=1icOpU4AAAAJ&hl=en">Google Scholar</a>.
-    </p>
-  </div>
+  <p class="page-deck">Peer-reviewed articles and published preprints. A complete citation record is available on <a href="https://scholar.google.com/citations?user=1icOpU4AAAAJ&hl=en">Google Scholar</a>.</p>
 {% endif %}
 
 
@@ -19,8 +14,8 @@ author_profile: true
 
 <section class="research-group">
   <div class="research-group__header">
-    <p class="research-group__eyebrow">Published</p>
-    <h2>Articles and preprints</h2>
+    <p class="research-group__eyebrow">Selected work</p>
+    <h2>Articles &amp; preprints</h2>
   </div>
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
