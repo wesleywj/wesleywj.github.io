@@ -27,7 +27,7 @@ redirect_from:
 <section class="research-index" aria-label="Research overview">
   <div class="research-index__row">
     <h2>Research</h2>
-    <p>Population health, life-course processes, ageing, cumulative disadvantage, and health disparities.</p>
+    <p>Population health, life-course processes, cumulative disadvantage, and health disparities.</p>
   </div>
   <div class="research-index__row">
     <h2>Methods</h2>
