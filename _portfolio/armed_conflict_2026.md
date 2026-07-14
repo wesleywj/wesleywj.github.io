@@ -7,7 +7,7 @@ external_url: https://zenodo.org/records/21079163
 excerpt: 'This study examines how armed conflict influences population size and growth using an agent-based model situated in Nepal during the 1996-2006 armed conflict. Contrary to intuitive expectations, the analysis finds that conflict can increase population size and growth during the conflict period, largely through sharp increases in marriage and marital fertility, with effects that persist long after the violence ends.'
 date: '2026-06-30'
 doi: '10.5281/zenodo.21079163'
-citation: 'Wang, W., & Williams, N. E. (2026). How Does Armed Conflict Influence Population? A Complex Systems Case Study of Nepal (v1) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21079163.'
+citation: 'Wang, W.J., & Williams, N. E. (2026). How Does Armed Conflict Influence Population? A Complex Systems Case Study of Nepal (v1) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21079163.'
 ---
 
 Authors: Wang, W.J., & Williams, N.E.

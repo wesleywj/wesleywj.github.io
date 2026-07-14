@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /portfolio/ea_pgi_2026/
 excerpt: 'This manuscript examines whether the educational attainment polygenic index shapes years of schooling and first-job socioeconomic status directly or primarily through the social mechanisms highlighted in classic status-attainment research. Using Wisconsin Longitudinal Study data and structural equation modeling, it shows that most of the association between EA-PGI and educational attainment is indirect, operating through family background, school rank, aspirations, and encouragement from significant others.'
 date: '2026-06-30'
-citation: 'Akimova, E. T., Wang, W. J., & Stryker, R. (2026). Polygenic indices and pathways to educational attainment and early career outcomes. Working manuscript.'
+citation: 'Akimova, E. T., Wang, W.J., & Stryker, R. (2026). Polygenic indices and pathways to educational attainment and early career outcomes. Working manuscript.'
 ---
 
 Authors: Evelina T. Akimova, Wesley J. Wang, Robin Stryker
